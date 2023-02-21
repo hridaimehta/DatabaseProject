@@ -5,7 +5,7 @@ Important Note:
 </b>
 <br>
 <em>
--Our program takes 15 minutes to populate in Aviary and 45 minutes in IntelliJ IDE
+-Our program takes 15 minutes to populate in WSL and 45 minutes in IntelliJ IDE
 <br>
 -You can choose to use the already populated database or populate an empty database
 <br>
